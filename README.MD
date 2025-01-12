@@ -138,4 +138,14 @@ A trama segue Marty McFly, um adolescente comum que, graças ao excêntrico Doc 
 
 E assim terminamos nossa viagem temporal! Eu, Doc Brown, fico por aqui, mas lembrem-se: no Cinecérebro, sempre há mais histórias para contar. Agora, ajustem seus relógios e não se atrasem para o próximo episódio. Até lá, grande Scott! 🚗💨
 
+### PROMPT - CRIAÇÃO DA IMAGEM LOGO
+
+Podcast + Tela de Cinema + Cérebro:  Cinecérebro – "O mundo nerd contado pela mente de uma IA." (IA inteligência artificial), camera settings f/ 8, 1/ 100s, ISO 100, complex lighting, backlighting, dynamic cinematic lighting, global illumination, ultra-high resolution,cartoon
+
+### PROMPT - CRIAÇÃO DA IMAGEM DO PODCAST 1 ALLADIN
+
+a podcaster genie of the lamp from the movie alladin with microphone, side by side desert, camera settings f/ 8, 1/ 100s, ISO 100, complex lighting, backlighting, dynamic cinematic lighting, global illumination, ultra-high resolution,cartoon,real colors, photo processing in 16K, cinematic, cinematic light, ultra realistic photography, ultra detailed --ar 1:1 --v 5.2
+
+
+
 ---
