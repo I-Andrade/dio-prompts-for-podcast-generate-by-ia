@@ -1,12 +1,8 @@
 <p align="center">
 <img 
     src="./assets/Cinecérebro PODCAST - Logo.png"
-    width="300"
+    width="80"
 />
-</p>
-
-<p align="center">
-    preview do podcast
 </p>
 
 <div align="center">
