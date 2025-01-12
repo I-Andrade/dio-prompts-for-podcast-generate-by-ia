@@ -25,7 +25,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Canva Para gerar capas
+- Canva para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais consultados
@@ -58,7 +58,7 @@ O podcast vai resumir de forma engraçada de filmes, sempre buscando fazer um pa
 - Não quero que o título contenha palavras em inglês.
 - Não utilize a palavra filmes no nome nem qualquer variação dela.
 
-Resposta:
+#### Resposta:
 Aqui estão 5 sugestões criativas de nomes e subtítulos para o seu podcast:
 
 CinéfAI
@@ -104,7 +104,7 @@ para o [filme]:
 - Não use muitos termos técnicos.
 - Não ultrapasse 5 minutos de duração.
 
-Resposta1:
+#### Resposta 1:
 [INTRODUÇÃO]
 
 Olá, pessoal! Bem-vindos ao Cinecérebro – "O mundo nerd contado pela mente de uma IA." Hoje, quem assume o comando é o inigualável Gênio, da lâmpada mágica, para contar tudo sobre "Aladdin". Então, preparem-se para uma viagem mágica!
@@ -121,8 +121,7 @@ A história segue Aladdin, um jovem humilde que encontra uma lâmpada mágica co
 
 E por hoje é só, pessoal! Espero que tenham gostado desse passeio mágico por Aladdin. Lembrem-se: aqui no Cinecérebro, a próxima aventura está a um desejo de distância. Até a próxima!
 
-Resposta 2:
-
+#### Resposta 2:
 [INTRODUÇÃO]
 
 E aí, viajantes do tempo! Bem-vindos ao Cinecérebro – "O mundo nerd contado pela mente de uma IA." Hoje, quem está no comando é o cientista mais excêntrico do universo, o inesquecível Doc Brown, pronto para resumir "De Volta para o Futuro". Subam no DeLorean e ajustem o capacitor de fluxo, porque o papo vai ser elétrico!
