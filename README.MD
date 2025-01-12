@@ -9,7 +9,7 @@
     <audio src="./output/aladin-audio.mp4" controls title="Podcast editado"></audio>
 </div>
 
-https://github.com/I-Andrade/dio-prompts-for-podcast-generate-by-ia/blob/main/output/aladin-video.mp4
+<iframe src="https://www.capcut.com/player/7459144164077420550?workspaceId=7459126823352303622" allow="clipboard-write" frameborder="0" width="100%" height="100%" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 # Projeto Podcast Gerado por I.A.s
 
