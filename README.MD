@@ -7,6 +7,7 @@
 
 [PODCAST - Episódio Alladin](https://github.com/I-Andrade/dio-prompts-for-podcast-generate-by-ia/tree/main/output)
 
+
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
@@ -19,6 +20,13 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
+
+## 📚 Materiais consultados
+
+- [GitHub prompts-for-podcast-generate-by-ia](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia)
+- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+
+
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
@@ -26,21 +34,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Canva para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais consultados
 
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-
-## DESENVOLVIMENTO
+## ✨ DESENVOLVIMENTO
 
 ### PROMPT - CRIAÇÃO DO NOME
 Você é um roteirista de podcast, e vamos criar um podcast de resumo de filmes, focado no mundo nerd e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos. Sempre incluir uma sugestão de subtítulo também.
@@ -144,6 +139,8 @@ Podcast + Tela de Cinema + Cérebro:  Cinecérebro – "O mundo nerd contado pel
 
 a podcaster genie of the lamp from the movie alladin with microphone, side by side desert, camera settings f/ 8, 1/ 100s, ISO 100, complex lighting, backlighting, dynamic cinematic lighting, global illumination, ultra-high resolution,cartoon,real colors, photo processing in 16K, cinematic, cinematic light, ultra realistic photography, ultra detailed --ar 1:1 --v 5.2
 
+## 👨‍💻 Expert
 
+I.Andrade
 
 ---
