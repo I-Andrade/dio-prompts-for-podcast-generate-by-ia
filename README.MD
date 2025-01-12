@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-    <audio src="./output/Cinecérebro PODCAST - Aladin (áudio).mp3" title="Podcast editado"></audio>
+    <audio src="./output/Cinecerebro PODCAST - Video.mp4" title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
