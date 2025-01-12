@@ -5,7 +5,7 @@
 />
 </p>
 
-[PODCAST - Episódio Alladin](https://drive.google.com/file/d/1Dh3Jov66EkH46XwGDlR9VtWcQ67bpAM1/view?usp=sharing)
+[PODCAST - Episódio Alladin](https://github.com/I-Andrade/dio-prompts-for-podcast-generate-by-ia/tree/main/output)
 
 # Projeto Podcast Gerado por I.A.s
 
