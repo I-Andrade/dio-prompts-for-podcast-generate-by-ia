@@ -5,11 +5,7 @@
 />
 </p>
 
-<div align="center">
-    <audio src="./output/aladin-audio.mp4" controls title="Podcast editado"></audio>
-</div>
-
-<iframe src="https://www.capcut.com/player/7459144164077420550?workspaceId=7459126823352303622" allow="clipboard-write" frameborder="0" width="100%" height="100%" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[PODCAST - Episódio Alladin](https://drive.google.com/file/d/1Dh3Jov66EkH46XwGDlR9VtWcQ67bpAM1/view?usp=sharing)
 
 # Projeto Podcast Gerado por I.A.s
 
