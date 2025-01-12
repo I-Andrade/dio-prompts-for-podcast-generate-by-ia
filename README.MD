@@ -9,6 +9,8 @@
     <audio src="./output/aladin-audio.mp4" controls title="Podcast editado"></audio>
 </div>
 
+https://github.com/I-Andrade/dio-prompts-for-podcast-generate-by-ia/blob/main/output/aladin-video.mp4
+
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
